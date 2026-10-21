@@ -1,19 +1,12 @@
-Grace Hopper
+# Grace Hopper
 <br>
 <!-- Link: https://upload.wikimedia.org/wikipedia/commons/5/55/Grace_Hopper.jpg -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Grace_Hopper.jpg" alt="Fotografía de Grace Hopper" width="600">
 <br><br><br>
-Información personal
+
+## Información personal
 <br>
-- Área de conocimiento: programación y lenguajes informáticos.
-<br>
-- Fecha de defunción: primero de enero de mil novecientos noventa y dos.
-<br>
-- Fecha de nacimiento: nueve de diciembre de mil novecientos seis.
-<br>
-- Estudios: matemáticas y física en Vassar College; maestría y doctorado en matemáticas en Yale.
-<br>
-- Ocupación: científica de la computación y oficial naval.
+
 <br><br><br>
 Aportes
 <br>
