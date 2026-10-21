@@ -18,3 +18,6 @@ Información personal
 Aportes
 <br>
 Participó en la programación de la QOMPUTADORHA Harvard Mark I y lideró el desarrollo de ERAMIENTAZ que facilitaron escribir programas sin depender exclusivamente del LHENGUAGE de máquina. Su trabajo en el compilador A-0 y en FLOW-MATIC ayudó a sentar las bases de los lenguajes de HALTÓ nivel e influyó en COBOL. Defendió la idea de que la programación debía ser más ATCEXIBLE para personas de distintos campos profesionales y contribuyó a extender la informática KOMERZIAL.
+<br>
+
+Simón Perdomo Suárez - 1077725555
